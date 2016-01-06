@@ -17,6 +17,6 @@ POSTGRES_USER=weblate
 # Mail server, the server has to listen on port 587 and understand TLS
 EMAIL_HOST=smtp.gmail.com
 # Do NOT use quotes here
-EMAIL_HOST_USER=
+EMAIL_HOST_USER=osval
 # Do NOT use quotes here
-EMAIL_HOST_PASSWORD=
+EMAIL_HOST_PASSWORD=1*de3///
